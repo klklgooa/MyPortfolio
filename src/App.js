@@ -1,5 +1,5 @@
-// import { HashRouter, Route, Routes} from "react-router-dom";
-import { HashRouter as Route, Routes} from "react-router-dom";
+import { BrowserRouter, Route, Routes} from "react-router-dom";
+import { HashRouter} from "react-router-dom";
 
 import Header from "./Component/Header";
 import Nav from "./Component/Nav";
