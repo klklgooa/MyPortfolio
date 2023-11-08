@@ -1,4 +1,5 @@
-import { BrowserRouter, Route, Routes} from "react-router-dom";
+// import { HashRouter, Route, Routes} from "react-router-dom";
+import { HashRouter as Route, Routes} from "react-router-dom";
 
 import Header from "./Component/Header";
 import Nav from "./Component/Nav";
@@ -13,7 +14,7 @@ import Login from "./Component/Login";
 import "./App.css";
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div>
         <Header />
         <div className="container">
@@ -30,7 +31,7 @@ function App() {
         </div>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 export default App;
