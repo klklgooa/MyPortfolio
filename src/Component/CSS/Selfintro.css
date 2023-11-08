@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&family=Noto+Serif+KR:wght@500&display=swap');
+h1{
+  color : Black;
+  margin-left: 20px;
+}
+
+.division{
+  font-family: "Noto+Serif+KR:wght@500";
+  margin-left: 20px ;
+  font-size: 20px;
+  border: 2pt groove rgb(38, 141, 4);
+}
+#pledge{
+  text-align: center;
+}
+p{
+  margin-left: 20px;
+}

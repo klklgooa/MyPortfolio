@@ -1,0 +1,40 @@
+img{
+  width:100px;
+  height:100px;
+  margin-left: 10px;
+}
+.hdiary_img {
+  width:250px;
+  height:400px;
+  margin-left: 41px;
+}
+
+fieldset {
+  width: 85%;
+  margin-left: 50px;
+  font-size: 1.5em;
+}
+p{
+  font-size: 25px; 
+  margin-top: 0px;
+}
+.keyard_1{
+  width: 92%;
+  height: 100%;
+}
+#keyard_logo{
+  margin-left: 18px;
+  width: 15%;
+  height: 10%;
+}
+h2 {
+  color: lightgray;
+  margin: 0;
+}
+.witty_logo{
+  width: 200px;
+}
+.witty_img{
+  width: 400px;
+  height: 700px;
+}

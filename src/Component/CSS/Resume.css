@@ -1,0 +1,42 @@
+em{
+  margin-left: 100px;
+  font-weight: bolder;
+  font-size: 2em;
+}
+span{
+  margin-left: 100px;
+  font-weight: bolder;
+  font-size: 2em;
+}
+table{
+  width: 80%;
+  margin-left: 100px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 1.5em;
+}
+td,th{
+  width: 20%;
+  border: 1px solid black;
+
+}
+tr{
+  height: 30;
+}
+
+#pledge{
+  text-align: center;
+  width: 50% ;
+  font-family: "Song Myung";
+  margin-left: 27%;
+  font-size: 1.5em;
+}
+.id_photo{
+  position: relative;
+  width: 220px;
+  height: 300px;
+}
+#id_photo_td {
+  width: 200px;
+}
