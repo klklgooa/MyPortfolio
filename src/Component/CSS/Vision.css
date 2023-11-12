@@ -17,6 +17,12 @@ fieldset {
   width: 850px;
   height: 500px;
   margin-left: 4%;
+  box-shadow: 5px 5px 5px 5px gray;
+}
+.ssafy_img:hover {
+  box-shadow: 5px 5px 5px 5px gray;
+  width: 900px;
+  height: 550px;
 }
 h2{
   color: lightgray;

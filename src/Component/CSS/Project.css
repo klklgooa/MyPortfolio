@@ -23,7 +23,7 @@ p{
   height: 100%;
 }
 #keyard_logo{
-  margin-left: 18px;
+  margin-left: 1%;
   width: 15%;
   height: 10%;
 }
@@ -33,6 +33,7 @@ h2 {
 }
 .witty_logo{
   width: 200px;
+  margin-left: 2%;
 }
 .witty_img{
   width: 400px;

@@ -21,7 +21,6 @@ header {
   background-color: #2DB400;
   height: 160px;
   width: 100%;
-  text-align: center;
 }
 .index_face {
   margin-left: 0px;
@@ -98,6 +97,7 @@ a {
 
 #header_span {
   margin-top: 100px;
+  margin-left: 35%;
 }
 
 footer{
@@ -245,6 +245,11 @@ to {
   margin: 0; /* 여백 제거 */
 }
 
+#music_details ul {
+	width: 1%;
+  margin-left: 0px;
+}
+
 #music_details li {
 	width: 200px;
   list-style:none;
@@ -252,30 +257,38 @@ to {
 }
 
 #music_details summary {
+  font-size: 20px;
 	color: #fff;
 	cursor: pointer;
   text-align: left;
+  margin-left: 48px;
 }
 
-#music_details label {
-	position: absolute;
-  text-align: left;
+#music_details div {
+  position: relative;
+  margin: 3px;
 }
 
 #music_details label:hover {
 	font-weight: 700;
 }
-
+#music_details span {
+  position: relative;
+  width: 30px;
+}
 #play_button {
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
-	margin-right: 4px;
+  margin-top: 20px;
+  margin-left: 100px;
 }
 
 #stop_button {
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
-	margin-left: -3px;
+  margin-top: 20px;
+	position: absolute;
+	margin-left: 137px;
 }
 
 .music_button {
@@ -289,12 +302,10 @@ to {
 	position: absolute;
 }
 
-#stop_button {
-	position: absolute;
-	margin-left: 37px;
-}
-
 .music_button:hover {
 	color: white;
 	background-color: skyblue;
+}
+h1{
+  margin-left: 2%;
 }
