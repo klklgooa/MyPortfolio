@@ -58,8 +58,8 @@ const index = () => {
             <div class="banner-left">
               <h1>꿈꾸는 개발자...</h1>
               <img class ='index_face' src={index_face} alt="keyard" />
-              <h2>황인찬</h2>
-              <h3 class="typing">A Dream Developer....</h3>
+              <p style={{border:"0px", fontSize:"25px", fontFamily:"sans-serif"}}>Inchan Hwang</p>
+              <h3 class="typing">A Dreaming Developer. . .</h3>
               <p>Hello, I'm Hwang Inchan, dreaming of becoming a developer.
                  I am currently in my third year of Gachon University 
                  and I am learning web programs.
